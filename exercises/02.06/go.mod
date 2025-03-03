@@ -1,3 +1,3 @@
-module 2.06
+module 02.06
 
 go 1.24.0
